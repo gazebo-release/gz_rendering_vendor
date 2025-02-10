@@ -2,6 +2,11 @@
 Changelog for package gz_rendering_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 8.2.2 (`#6 <https://github.com/gazebo-release/gz_rendering_vendor/issues/6>`_)
+* Contributors: Addisu Z. Taddese
+
 0.0.5 (2024-11-08)
 ------------------
 * Bump version to 8.2.1 (`#4 <https://github.com/gazebo-release/gz_rendering_vendor/issues/4>`_)
