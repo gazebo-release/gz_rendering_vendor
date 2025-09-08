@@ -8,8 +8,8 @@ Changelog for package gz_rendering_vendor
 * Bump version to 9.2.0
 * Contributors: Ian Chen, Jose Luis Rivero
 
-Forthcoming
------------
+0.4.0 (2025-09-08)
+------------------
 * Jetty support: 10.0.0-pre1 (`#11 <https://github.com/gazebo-release/gz_rendering_vendor/issues/11>`_)
 * Contributors: Steve Peters
 
