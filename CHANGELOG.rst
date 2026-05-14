@@ -8,8 +8,8 @@ Changelog for package gz_rendering_vendor
 * Bump version to 9.2.0
 * Contributors: Ian Chen, Jose Luis Rivero
 
-Forthcoming
------------
+0.5.0 (2026-05-14)
+------------------
 
 0.4.3 (2026-01-22)
 ------------------
