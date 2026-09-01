@@ -2,6 +2,11 @@
 Changelog for package gz_rendering_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Enable Python bindings (`#23 <https://github.com/gazebo-release/gz_rendering_vendor/issues/23>`_)
+* Contributors: Addisu Z. Taddese
+
 0.2.6 (2025-11-18)
 ------------------
 * Bump version to 9.5.0 (`#17 <https://github.com/gazebo-release/gz_rendering_vendor/issues/17>`_)
