@@ -2,8 +2,8 @@
 Changelog for package gz_rendering_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.8 (2026-09-04)
+------------------
 * Revert "Enable Python bindings (`#23 <https://github.com/gazebo-release/gz_rendering_vendor/issues/23>`_)" (`#25 <https://github.com/gazebo-release/gz_rendering_vendor/issues/25>`_)
   * Revert "Enable Python bindings (`#23 <https://github.com/gazebo-release/gz_rendering_vendor/issues/23>`_)"
   This reverts commit 44b1b7c47f1e0f76f86ef33fd2058355f2b9d54e.
