@@ -17,7 +17,7 @@
     Gazebo Rendering: Rendering library for robot applications
   </description>
   <maintainer email="addisuzt@intrinsic.ai">Addisu Z. Taddese</maintainer>
-  <license>Apache License 2.0</license>
+  <license>Apache-2.0</license>
   <url type="website">https://github.com/gazebosim/gz-rendering</url>
 
   <buildtool_depend>ament_cmake_core</buildtool_depend>
@@ -25,6 +25,7 @@
   <buildtool_depend>ament_cmake_vendor_package</buildtool_depend>
 
   <buildtool_depend>cmake</buildtool_depend>
+  <build_depend>boost</build_depend>
   <build_depend>glut</build_depend>
   <build_depend>libglew-dev</build_depend>
   <build_depend>libogre-dev</build_depend>
@@ -33,6 +34,7 @@
   <build_depend>libxmu-dev</build_depend>
   <build_depend>opengl</build_depend>
   <build_depend>uuid</build_depend>
+  <exec_depend>boost</exec_depend>
   <exec_depend>glut</exec_depend>
   <exec_depend>libglew-dev</exec_depend>
   <exec_depend>libogre-dev</exec_depend>
