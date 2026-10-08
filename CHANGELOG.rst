@@ -8,8 +8,8 @@ Changelog for package gz_rendering_vendor
 * Bump version to 9.2.0
 * Contributors: Ian Chen, Jose Luis Rivero
 
-Forthcoming
------------
+0.4.5 (2026-10-08)
+------------------
 * Bump version to 10.1.0 (`#27 <https://github.com/gazebo-release/gz_rendering_vendor/issues/27>`_)
 * Contributors: Carlos Agüero
 
